@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @maliachova
-- 👀 I’m interested in embedded systems
-- 🌱 I’m currently learning C, C++
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love creative work
+Hi, I'm @maliachova! I love learning things about embedded systems, hardware-software co-design and code quality assurance!
